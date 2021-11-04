@@ -2,8 +2,8 @@
 
 body {
     background: #000000;
-    background-image: url('background.jpg');
-    background-size: cover;
+    background-image: url('background_01.jpg');
+    background-size: 300px 300px;
     padding: 100px;
     font-family: 'Open Sans', sans-serif;
     color: #000;
